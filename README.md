@@ -4,7 +4,7 @@ Hash Getter is a Python script designed to perform specific operations related t
 
 ## First start
 
-Before you can run the file, make sure that you have changet the marked sections of code
+Before you can run the file, make sure that you have installed python on your computer and changed the marked sections of code
 
 ## Purpose
 
